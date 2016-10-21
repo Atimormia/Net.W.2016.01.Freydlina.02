@@ -1,0 +1,11 @@
+D:\[Projects]\[Learning]\[EPAM-NET]\Day2\Net.W.2016.Freydlina.02\Tasks.UI\bin\Debug\Tasks.UI.exe.config
+D:\[Projects]\[Learning]\[EPAM-NET]\Day2\Net.W.2016.Freydlina.02\Tasks.UI\bin\Debug\Tasks.UI.exe
+D:\[Projects]\[Learning]\[EPAM-NET]\Day2\Net.W.2016.Freydlina.02\Tasks.UI\bin\Debug\Tasks.UI.pdb
+D:\[Projects]\[Learning]\[EPAM-NET]\Day2\Net.W.2016.Freydlina.02\Tasks.UI\bin\Debug\Task2.dll
+D:\[Projects]\[Learning]\[EPAM-NET]\Day2\Net.W.2016.Freydlina.02\Tasks.UI\bin\Debug\Task2.pdb
+D:\[Projects]\[Learning]\[EPAM-NET]\Day2\Net.W.2016.Freydlina.02\Tasks.UI\obj\Debug\Tasks.UI.csprojResolveAssemblyReference.cache
+D:\[Projects]\[Learning]\[EPAM-NET]\Day2\Net.W.2016.Freydlina.02\Tasks.UI\obj\Debug\Tasks.UI.exe
+D:\[Projects]\[Learning]\[EPAM-NET]\Day2\Net.W.2016.Freydlina.02\Tasks.UI\obj\Debug\Tasks.UI.pdb
+D:\[Projects]\[Learning]\[EPAM-NET]\Day2\Net.W.2016.01.Freydlina.02\Tasks.UI\bin\Debug\Tasks.UI.exe.config
+D:\[Projects]\[Learning]\[EPAM-NET]\Day2\Net.W.2016.01.Freydlina.02\Tasks.UI\obj\Debug\Tasks.UI.exe
+D:\[Projects]\[Learning]\[EPAM-NET]\Day2\Net.W.2016.01.Freydlina.02\Tasks.UI\obj\Debug\Tasks.UI.pdb
