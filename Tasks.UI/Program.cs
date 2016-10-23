@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Tasks;
 
 namespace Tasks.UI
@@ -63,6 +60,25 @@ namespace Tasks.UI
         }
 
         static void Task3()
-        { }
+        {
+            int a, b, i, j;
+            try
+            {
+                Console.Write("Input number a = ");
+                a = Int32.Parse(Console.ReadLine());
+                Console.Write("Input number b = ");
+                b = Int32.Parse(Console.ReadLine());
+                Console.Write("Input index i = ");
+                i = Int32.Parse(Console.ReadLine());
+                Console.Write("Input index j = ");
+                j = Int32.Parse(Console.ReadLine());
+            }
+            catch
+            {
+                Console.WriteLine("Input Error");
+                return;
+            }
+            Console.WriteLine(">" + Solver.InsertionTask3(a, b, i, j));
+        }
     }
 }
