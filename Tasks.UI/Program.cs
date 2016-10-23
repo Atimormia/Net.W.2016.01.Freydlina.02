@@ -72,6 +72,10 @@ namespace Tasks.UI
                 i = Int32.Parse(Console.ReadLine());
                 Console.Write("Input index j = ");
                 j = Int32.Parse(Console.ReadLine());
+                if (i > j)
+                {
+                    throw new Exception("Must be i < j");
+                }
             }
             catch
             {

@@ -2,6 +2,9 @@
 
 namespace Tasks
 {
+    /// <summary>
+    /// Represents storing and calculating bits array of number of Int32
+    /// </summary>
     public class BynaryNumber
     {
         private byte[] _bits = new byte[32];
@@ -14,7 +17,10 @@ namespace Tasks
                 return _bits;
             }
         }
-
+        /// <summary>
+        /// Create store of bits array of value
+        /// </summary>
+        /// <param name="value"></param>
         public BynaryNumber(int value)
         {
             _number = value;
@@ -59,7 +65,14 @@ namespace Tasks
                 _number += _bits[i] * (int)Math.Pow(2, i);
             }
         }
-       
+
+        /// <summary>
+        /// Insert number num from i bit to j bit
+        /// </summary>
+        /// <param name="num">Number to insert</param>
+        /// <param name="i">Bit index</param>
+        /// <param name="j">Bit index</param>
+        /// <returns>New number</returns>
         public int Insertion(BynaryNumber num, int i, int j)
         {
             for (int k = i; k <= j; k++)
