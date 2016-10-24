@@ -57,7 +57,9 @@ namespace Tasks
         /// <returns>New number</returns>
         static public int InsertionTask3(int a, int b, int i, int j)
         {
-
+            BynaryNumber bynary1 = new BynaryNumber(a);
+            BynaryNumber bynary2 = new BynaryNumber(b);
+            return bynary1.Insertion(bynary2, i, j);
         }
     }
 }
