@@ -1,0 +1,12 @@
+D:\[Projects]\[Learning]\[EPAM-NET]\Day2\Net.W.2016.01.Freydlina.02\Tasks.Tests.NUnit\bin\Debug\Tasks.Tests.NUnit.dll
+D:\[Projects]\[Learning]\[EPAM-NET]\Day2\Net.W.2016.01.Freydlina.02\Tasks.Tests.NUnit\bin\Debug\Tasks.Tests.NUnit.pdb
+D:\[Projects]\[Learning]\[EPAM-NET]\Day2\Net.W.2016.01.Freydlina.02\Tasks.Tests.NUnit\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\[Projects]\[Learning]\[EPAM-NET]\Day2\Net.W.2016.01.Freydlina.02\Tasks.Tests.NUnit\bin\Debug\nunit.framework.dll
+D:\[Projects]\[Learning]\[EPAM-NET]\Day2\Net.W.2016.01.Freydlina.02\Tasks.Tests.NUnit\bin\Debug\Tasks.dll
+D:\[Projects]\[Learning]\[EPAM-NET]\Day2\Net.W.2016.01.Freydlina.02\Tasks.Tests.NUnit\bin\Debug\Tasks.pdb
+D:\[Projects]\[Learning]\[EPAM-NET]\Day2\Net.W.2016.01.Freydlina.02\Tasks.Tests.NUnit\bin\Debug\Tasks.xml
+D:\[Projects]\[Learning]\[EPAM-NET]\Day2\Net.W.2016.01.Freydlina.02\Tasks.Tests.NUnit\bin\Debug\nunit.framework.xml
+D:\[Projects]\[Learning]\[EPAM-NET]\Day2\Net.W.2016.01.Freydlina.02\Tasks.Tests.NUnit\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\[Projects]\[Learning]\[EPAM-NET]\Day2\Net.W.2016.01.Freydlina.02\Tasks.Tests.NUnit\obj\Debug\Tasks.Tests.NUnit.csprojResolveAssemblyReference.cache
+D:\[Projects]\[Learning]\[EPAM-NET]\Day2\Net.W.2016.01.Freydlina.02\Tasks.Tests.NUnit\obj\Debug\Tasks.Tests.NUnit.dll
+D:\[Projects]\[Learning]\[EPAM-NET]\Day2\Net.W.2016.01.Freydlina.02\Tasks.Tests.NUnit\obj\Debug\Tasks.Tests.NUnit.pdb

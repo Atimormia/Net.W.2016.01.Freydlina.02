@@ -40,3 +40,8 @@ Insertion(0, 15, 0, 30) -> 15
 Insertion(15, -15, 0, 4) -> 31
 
 Insertion(15, int.MaxValue, 3, 5)->63
+
+###Additional Tasks###
+1. Разработать unit-тесты с использованием как NUnit Framework, так и MS Unit Test Framework (здесь желательно попробовать подход  Data Driven Testing, пример в архиве UnitTesting.zip, проекты DDT.Demo и DDT.Demo.Tests) для тестирования метода из задачи 1. 
+1. Разработать unit-тесты для тестирования методов задач 2, 3. 
+

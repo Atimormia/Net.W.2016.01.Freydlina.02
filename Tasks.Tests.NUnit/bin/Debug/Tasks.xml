@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Tasks</name>
+    </assembly>
+    <members>
+        <member name="T:Tasks.BynaryNumber">
+            <summary>
+            Represents storing and calculating bits array of number of Int32
+            </summary>
+        </member>
+        <member name="M:Tasks.BynaryNumber.#ctor(System.Int32)">
+            <summary>
+            Create store of bits array of value
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:Tasks.BynaryNumber.Insertion(Tasks.BynaryNumber,System.Int32,System.Int32)">
+            <summary>
+            Insert number num from i bit to j bit
+            </summary>
+            <param name="num">Number to insert</param>
+            <param name="i">Bit index</param>
+            <param name="j">Bit index</param>
+            <returns>New number</returns>
+        </member>
+        <member name="T:Tasks.Solver">
+            <summary>
+            Represents solving problems
+            </summary>
+        </member>
+        <member name="M:Tasks.Solver.Task1(System.Int32[])">
+            <summary>
+            Finds index that devides array on left and right part which sums is equal
+            </summary>
+            <param name="arr">Array</param>
+            <returns>Index</returns>
+        </member>
+        <member name="M:Tasks.Solver.LongestTask2(System.String,System.String)">
+            <summary>
+            Generates string of unique characters from strings a and b
+            </summary>
+            <param name="a">String a</param>
+            <param name="b">String b</param>
+            <returns>String of unique characters</returns>
+        </member>
+        <member name="M:Tasks.Solver.InsertionTask3(System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Insert number b in number a from i bit to j bit
+            </summary>
+            <param name="a">Number a</param>
+            <param name="b">Number b</param>
+            <param name="i">Bit index i</param>
+            <param name="j">Bit index j</param>
+            <returns>New number</returns>
+        </member>
+    </members>
+</doc>

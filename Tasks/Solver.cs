@@ -13,7 +13,7 @@ namespace Tasks
         /// </summary>
         /// <param name="arr">Array</param>
         /// <returns>Index</returns>
-        static public int Task1(int[] arr)
+        public static int Task1(int[] arr)
         {
             int sumLeft = 0;
             int sumRight = arr.Sum()-arr[0];
@@ -36,7 +36,7 @@ namespace Tasks
         /// <param name="a">String a</param>
         /// <param name="b">String b</param>
         /// <returns>String of unique characters</returns>
-        static public string LongestTask2(string a, string b)
+        public static string LongestTask2(string a, string b)
         {
             string str = a + b;
             SortedSet<char> charSet = new SortedSet<char>();
@@ -55,7 +55,7 @@ namespace Tasks
         /// <param name="i">Bit index i</param>
         /// <param name="j">Bit index j</param>
         /// <returns>New number</returns>
-        static public int InsertionTask3(int a, int b, int i, int j)
+        public static int InsertionTask3(int a, int b, int i, int j)
         {
             BynaryNumber bynary1 = new BynaryNumber(a);
             BynaryNumber bynary2 = new BynaryNumber(b);
